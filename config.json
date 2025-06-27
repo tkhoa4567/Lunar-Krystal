@@ -14,9 +14,9 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "gayporn",
-    "AMDIN_NAME": "Xuân Thắng",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/xuan.thang.800994",
+    "BOTNAME": "khoa chim hôi",
+    "AMDIN_NAME": "Trọng Khoa",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/cu.bin.174046",
     "PREFIX": ".",
     "LOGIN": {
         "EMAIL": "",
@@ -24,10 +24,10 @@
         "OTPKEY": ""
     },
     "ADMINBOT": [
-        "100087574389363"
+        "100082243972204"
     ],
     "NDH": [
-        "100087574389363"
+        "100082243972204"
     ],
     "DATABASE": {
         "sqlite": {
@@ -55,7 +55,7 @@
         "enable": true
     },
     "daily": {
-        "cooldownTime": 43200000,
+        "cooldownTime": 43200000000000,
         "rewardCoin": 1000000
     },
     "anti": {
